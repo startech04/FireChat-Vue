@@ -2,12 +2,12 @@ import firebase from "firebase/app";
 import "firebase/database";
 
 const config = {
-	apiKey: "AIzaSyDhJqeeX8EpXljo1v5vo-Ia29aIdjTPdKs",
-	authDomain: "firevuechat-3ac27.firebaseapp.com",
-	projectId: "firevuechat-3ac27",
-	storageBucket: "firevuechat-3ac27.appspot.com",
-	messagingSenderId: "425190580286",
-	appId: "1:425190580286:web:f7eec6ed3d44b171b4f16f"
+  	apiKey: "AIzaSyAxA1dU5r_tkiYE3ncknr7irIuJI-NE5S8",
+  	authDomain: "eas-chat-6c31b.firebaseapp.com",
+  	projectId: "eas-chat-6c31b",
+  	storageBucket: "eas-chat-6c31b.appspot.com",
+ 	messagingSenderId: "33945564766",
+ 	appId: "1:33945564766:web:30acdbb262eb87f95866cf"
 }
 
 const db = firebase.initializeApp(config);
